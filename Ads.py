@@ -26,11 +26,12 @@ logging.basicConfig(
 
 # Auto-Reply Message
 AUTO_REPLY_MESSAGE = """
-We are an international trading company specializing in foreign exchange. The exchange rate we will give you for each order is 95 - 125INR.
+Please sir 🙏
 
-How much USDT do you want to sell?
 
-Dm - @Lesrtbs
+यहा मैसेज करे    👉 @MR_XSHOP
+
+𝐌𝐞𝐬𝐬𝐚𝐠𝐞 𝐡𝐞𝐫𝐞👉 @MR_XSHOP
 """
 
 def display_banner():
